@@ -6,10 +6,10 @@ import MessageList from './components/Fetch';
 import PostList from './components/PostList';
 import './components/styling.css';
 
+
 function App() {
   return (
     <div className="App">
-      <Text />
       <PostList />
     </div>
   )
